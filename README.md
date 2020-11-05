@@ -1,1 +1,1 @@
-# comparison_bol_coolblue
+# Comparison Bol & Coolblue
